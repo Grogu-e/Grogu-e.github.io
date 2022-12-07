@@ -4,6 +4,8 @@ GitHub Pages site
 
 dev blog: https://Grogu-e.github.io/dev-blog
 
+project board: https://github.com/users/Grogu-e/projects/3
+
 pre-installed GitHub Jekyll Themes: https://pages.github.com/themes/
 
 Website URL: https://grogu-e.github.io/
