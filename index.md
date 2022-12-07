@@ -122,5 +122,5 @@ class DataWars_UI:
 
 ## Diagrams
 
-![M5T1-ContextDiagram_](https://github.com/Grogu-e/Grogu-e.github.io/blob/main/diagram.jpg)
+<img src="diagram.jpg" width="400">
    
